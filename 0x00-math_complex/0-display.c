@@ -19,12 +19,10 @@ void display_complex_number(complex c)
       else
 	{
 	  printf(" - ");
+	  c.im *= -1;
 	}
       if (c.im != 1 && c.im != -1)
-	{
-	  c.im *= -1;
-	  printf("%d", c.im);
-	}
+	printf("%d", c.im);
       printf("i");
     }
   printf("\n");
