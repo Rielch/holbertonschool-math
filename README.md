@@ -1,1 +1,1 @@
-Gabriel Prochnau's repository for project 0x00. Math - Complex for Holberton School
+Gabriel Prochnau's repository for math projects for Holberton School
