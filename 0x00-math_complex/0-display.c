@@ -22,7 +22,7 @@ void display_complex_number(complex c)
 	}
       if (c.im != 1 && c.im != -1)
 	printf("%d", c.im);
-      printf("i")
+      printf("i");
     }
   printf("\n");
 }
